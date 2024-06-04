@@ -1,0 +1,42 @@
+{
+  "sections": {
+    "viva-section-29dh": {
+      "type": "apps",
+      "blocks": {
+        "viva-content-nj8r": {
+          "type": "shopify:\/\/apps\/viva-page-builder-staging\/blocks\/viva_content\/d397a34c-0fbd-43b4-81bd-c1a9baf66ae0",
+          "settings": {
+            "section_handle": ""
+          }
+        }
+      },
+      "block_order": [
+        "viva-content-nj8r"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "viva-section-rzgy": {
+      "type": "apps",
+      "blocks": {
+        "viva-content-p2qm": {
+          "type": "shopify:\/\/apps\/viva-page-builder\/blocks\/viva_content\/1c30e4eb-0644-429a-b30a-5b73dd51b957",
+          "settings": {
+            "section_handle": ""
+          }
+        }
+      },
+      "block_order": [
+        "viva-content-p2qm"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "viva-section-29dh",
+    "viva-section-rzgy"
+  ]
+}
